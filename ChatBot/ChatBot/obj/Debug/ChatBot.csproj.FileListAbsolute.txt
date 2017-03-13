@@ -1,0 +1,6 @@
+c:\users\joelo\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+c:\users\joelo\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+c:\users\joelo\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+c:\users\joelo\documents\visual studio 2015\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+c:\users\joelo\documents\visual studio 2015\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+c:\users\joelo\documents\visual studio 2015\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
