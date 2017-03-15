@@ -1,0 +1,9 @@
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\joelo\documents\visual studio 2015\Projects\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
