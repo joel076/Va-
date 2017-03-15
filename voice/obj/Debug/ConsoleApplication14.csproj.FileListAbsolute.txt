@@ -1,0 +1,8 @@
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication14\obj\Debug\Interop.SpeechLib.dll
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication14\obj\Debug\ConsoleApplication14.csproj.ResolveComReference.cache
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
