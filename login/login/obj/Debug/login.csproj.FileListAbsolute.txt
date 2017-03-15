@@ -1,0 +1,10 @@
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\bin\Debug\login.exe.config
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.Form1.resources
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.Main.resources
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.Properties.Resources.resources
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\bin\Debug\login.exe
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\bin\Debug\login.pdb
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.exe
+c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.pdb
