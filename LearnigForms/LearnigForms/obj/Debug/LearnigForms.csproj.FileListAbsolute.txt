@@ -1,0 +1,9 @@
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\bin\Debug\LearnigForms.exe.config
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\bin\Debug\LearnigForms.exe
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\bin\Debug\LearnigForms.pdb
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\obj\Debug\LearnigForms.csprojResolveAssemblyReference.cache
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\obj\Debug\LearnigForms.Properties.Resources.resources
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\obj\Debug\LearnigForms.csproj.GenerateResource.Cache
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\obj\Debug\LearnigForms.exe
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\obj\Debug\LearnigForms.pdb
+c:\users\joelo\documents\visual studio 2015\Projects\LearnigForms\LearnigForms\obj\Debug\LearnigForms.Form1.resources
