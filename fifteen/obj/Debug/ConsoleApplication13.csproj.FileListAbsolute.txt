@@ -1,0 +1,6 @@
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+C:\Users\joelo\Documents\Visual Studio 2015\Projects\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\joelo\Documents\Visual Studio 2015\Projects\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\joelo\Documents\Visual Studio 2015\Projects\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\joelo\Documents\Visual Studio 2015\Projects\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
