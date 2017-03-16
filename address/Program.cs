@@ -36,7 +36,7 @@ namespace ConsoleApplication12
             Person p9 = new Person("Walter", "Brattain", "1902-1987", "Invented the transistor with William Shockley and John Bardeen");
             Person p10 = new Person("Jack", "Kilby", "1923-2005", "He invented the microchip with Robert Noyce");
             Person p11= new Person("Robert", "Noyce", "1927-1990", "He invented the microchip with Jack Kilby");
-            Person p11 = new Person("Gordon", "Moore", "1929-", "Started the company Intel");
+            Person p11 = new Person("Gordon", "Moore", "1929-", "He started the company Intel, he is also famous for Moores law that have predicted how much better computers get over time.");
 
 
             string command= Console.ReadLine();
