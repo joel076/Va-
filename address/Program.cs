@@ -1,9 +1,9 @@
-﻿//test sucesssssssfuol?
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace ConsoleApplication12
 {
@@ -50,28 +50,36 @@ namespace ConsoleApplication12
 			Person p9 = new Person("Jack", "Kilby", "1923-2005", "He invented the microchip with Robert Noyce");
 			Person p10 = new Person("Robert", "Noyce", "1927-1990", "He invented the microchip with Jack Kilby");
 			Person p11 = new Person("Gordon", "Moore", "1929-", "Started the company Intel");// the almighty god
-			AddToList(ref list, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11);
-			Console.WriteLine("Type the full name for a person or list for a full list.");
-			string command = Console.ReadLine();
-			if (command.Equals("list"))
-			{
-				foreach (Person pn in list)
-				{
-					Console.WriteLine(pn.Name + " " + pn.Age + " " + pn.Feat);
-				}
-			}
-			else
-			{
-				foreach (Person pn in list)
-				{
-					if (pn.Name.Equals(command))
-					{
-						Console.WriteLine(pn.Name + " " + pn.Age + " " + pn.Feat);
-					}
-				}
 
-			}
-			Console.ReadKey();
+			AddToList(ref list, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11);
+            for (;;)
+            {
+                Console.WriteLine("Type the full name for a person or list for a full list.");
+
+                string command = Console.ReadLine();
+                command = Thread.CurrentThread.CurrentCulture.TextInfo.ToTitleCase(command.ToLower());
+                Console.WriteLine(command);
+
+                if (command.Equals("list"))
+                {
+                    foreach (Person pn in list)
+                    {
+                        Console.WriteLine(pn.Name + " " + pn.Age + " " + pn.Feat);
+                    }
+                }
+
+                else
+                {
+                    foreach (Person pn in list)
+                    {
+                        if (pn.Name.Equals(command))
+                        {
+                            Console.WriteLine(pn.Name + " " + pn.Age + " " + pn.Feat);
+                        }
+                    }
+
+                }
+            }
 		}
 		public static void AddToList(ref List<Person> lists, params Person[] listp)
 		{
@@ -79,6 +87,6 @@ namespace ConsoleApplication12
 			{
 				lists.Add(listp[i]);
 			}
-		}
+		}        
 	}
 }
