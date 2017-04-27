@@ -49,7 +49,7 @@ namespace ConsoleApplication12
 			Person p9 = new Person("Jack", "Kilby", "1923-2005", "He invented the microchip with Robert Noyce");
 			Person p10 = new Person("Robert", "Noyce", "1927-1990", "He invented the microchip with Jack Kilby");
 			Person p11 = new Person("Gordon", "Moore", "1929-", "Started the company Intel");// the almighty god
-			AddToList(p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11);
+			AddToList(ref list, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11);
 			Console.WriteLine("Type the full name for a person or list for a full list.");
 			string command = Console.ReadLine();
 			if (command.Equals("list"))
@@ -72,11 +72,11 @@ namespace ConsoleApplication12
 			}
 			Console.ReadKey();
 		}
-		public static void AddToList(params Person[] listp)
+		public static void AddToList(ref List<Person> lists, params Person[] listp)
 		{
 			for (int i = 0; i < listp.Length; i++)
 			{
-				list.Add(listp[i]);
+				lists.Add(listp[i]);
 			}
 		}
 	}
