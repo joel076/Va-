@@ -55,21 +55,17 @@ namespace ConsoleApplication12
             for (;;)
             {
                 Console.WriteLine("Type the full name for a person or list for a full list.");
-
                 string command = Console.ReadLine();
-                command = Thread.CurrentThread.CurrentCulture.TextInfo.ToTitleCase(command.ToLower());
-                Console.WriteLine(command);
-
-                if (command.Equals("list"))
+				if (command.Equals("list"))
                 {
                     foreach (Person pn in list)
                     {
                         Console.WriteLine(pn.Name + " " + pn.Age + " " + pn.Feat);
                     }
                 }
-
                 else
                 {
+					command = Thread.CurrentThread.CurrentCulture.TextInfo.ToTitleCase(command.ToLower());
                     foreach (Person pn in list)
                     {
                         if (pn.Name.Equals(command))
