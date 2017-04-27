@@ -50,6 +50,8 @@ namespace ConsoleApplication12
 			Person p9 = new Person("Jack", "Kilby", "1923-2005", "He invented the microchip with Robert Noyce");
 			Person p10= new Person("Robert", "Noyce", "1927-1990", "He invented the microchip with Jack Kilby");
 			Person p11= new Person("Gordon", "Moore", "1929-", "Started the company Intel");// the almighty god
+			//koden typ for i in person.length 
+			//list.add(p[i])
 			list.Add(p0);// ska använda loop iställe, I tried but it's hard, please fix
 			list.Add(p1);
 			list.Add(p2);
