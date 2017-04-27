@@ -4,3 +4,9 @@ c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication11\Consol
 c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
 c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
 c:\users\joelo\documents\visual studio 2015\Projects\ConsoleApplication11\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\pruank\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+D:\Documents\Visual Studio 2015\Projects\Va-\pruank\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+D:\Documents\Visual Studio 2015\Projects\Va-\pruank\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\pruank\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+D:\Documents\Visual Studio 2015\Projects\Va-\pruank\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\pruank\ConsoleApplication11\obj\Debug\ConsoleApplication11.csprojResolveAssemblyReference.cache

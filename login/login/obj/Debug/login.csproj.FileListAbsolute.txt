@@ -8,3 +8,13 @@ c:\users\joelo\documents\visual studio 2015\Projects\login\login\bin\Debug\login
 c:\users\joelo\documents\visual studio 2015\Projects\login\login\bin\Debug\login.pdb
 c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.exe
 c:\users\joelo\documents\visual studio 2015\Projects\login\login\obj\Debug\login.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\bin\Debug\login.exe.config
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\obj\Debug\login.exe
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\obj\Debug\login.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\bin\Debug\login.exe
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\bin\Debug\login.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\obj\Debug\login.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\obj\Debug\login.Main.resources
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\obj\Debug\login.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Va-\login\login\obj\Debug\login.csproj.GenerateResource.Cache

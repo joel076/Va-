@@ -4,3 +4,9 @@ C:\Users\joelo\Documents\Visual Studio 2015\Projects\ConsoleApplication13\bin\De
 C:\Users\joelo\Documents\Visual Studio 2015\Projects\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
 C:\Users\joelo\Documents\Visual Studio 2015\Projects\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
 C:\Users\joelo\Documents\Visual Studio 2015\Projects\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\fifteen\bin\Debug\ConsoleApplication13.exe.config
+D:\Documents\Visual Studio 2015\Projects\Va-\fifteen\obj\Debug\ConsoleApplication13.exe
+D:\Documents\Visual Studio 2015\Projects\Va-\fifteen\obj\Debug\ConsoleApplication13.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\fifteen\bin\Debug\ConsoleApplication13.exe
+D:\Documents\Visual Studio 2015\Projects\Va-\fifteen\bin\Debug\ConsoleApplication13.pdb
+D:\Documents\Visual Studio 2015\Projects\Va-\fifteen\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
