@@ -13,7 +13,8 @@ namespace ConsoleApplication12
         public string releaseDate;
         public string Description;
 
-        public Inventions(string iname, string releasedate, string description)
+
+    public Inventions(string iname, string releasedate, string description)
         {
             iName = iname;
             releaseDate = releasedate;
@@ -132,4 +133,4 @@ namespace ConsoleApplication12
             }
         }
     }
-}//
+}
