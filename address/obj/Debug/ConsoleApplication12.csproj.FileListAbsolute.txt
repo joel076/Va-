@@ -13,3 +13,6 @@ D:\Documents\Visual Studio 2015\Projects\Va-\address\obj\Debug\ConsoleApplicatio
 D:\Documents\Visual Studio 2015\Projects\Va-\address\bin\Debug\ConsoleApplication12.exe
 D:\Documents\Visual Studio 2015\Projects\Va-\address\bin\Debug\ConsoleApplication12.pdb
 D:\Documents\Visual Studio 2015\Projects\Va-\address\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+C:\Users\joelo\Source\Repos\Va-\address\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\joelo\Source\Repos\Va-\address\obj\Debug\ConsoleApplication12.exe
+C:\Users\joelo\Source\Repos\Va-\address\obj\Debug\ConsoleApplication12.pdb
