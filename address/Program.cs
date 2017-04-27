@@ -21,13 +21,7 @@ namespace ConsoleApplication12
             Description = description;
 
         }
-		public void AddToList(ref List<Inventions> lists, params Inventions[] listq)
-        {
-            for (int i = 0; i < listq.Length; i++)
-            {
-                lists.Add(listq[i]);
-            }
-        }
+		
 
     }
 
@@ -46,13 +40,7 @@ namespace ConsoleApplication12
             Feat = feat;
             Name = firstname + " " + lastname;
         }
-		public void AddToList(ref List<Person> lists, params Person[] listp)
-        {
-            for (int i = 0; i < listp.Length; i++)
-            {
-                lists.Add(listp[i]);
-            }
-        }
+		
 
     }
 
@@ -88,24 +76,21 @@ namespace ConsoleApplication12
 
             Inventions i0 = new Inventions("Intel 4004", "1971", "Intel 4004 is the first one chip microprocessor. It ran at 740kHz");
 
-            p0.AddToList(ref list, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11);
+            AddToList(ref list, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11);
 
-            i0.AddToList(ref list2, i0);
+            AddToList(ref list2, i0);
 
             for (;;)
             {
                 Console.WriteLine("Type the full name for a person, invention or list for a full list.");
                 string command = Console.ReadLine();
-                if (command.Equals("list people"))
+                if (command.Equals("list"))
                 {
                     foreach (Person pn in list)
                     {
                         Console.WriteLine(pn.Name + " " + pn.Age + " " + pn.Feat);
                     }
-                }
-                else if (command.Equals("list inventions"))
-                {
-                    foreach (Inventions inv in list2)
+					foreach (Inventions inv in list2)
                     {
                         Console.WriteLine(inv.iName + " " + inv.releaseDate + " " + inv.Description);
                     }
@@ -131,5 +116,20 @@ namespace ConsoleApplication12
                 }
             }
         }
+		public static void AddToList(ref List<Inventions> lists, params Inventions[] listq)
+		{
+        for (int i = 0; i < listq.Length; i++)
+        {
+            lists.Add(listq[i]);
+        }
+		}
+		public static void AddToList(ref List<Person> lists, params Person[] listp)
+		{
+        for (int i = 0; i < listp.Length; i++)
+        {
+            lists.Add(listp[i]);
+        }
+		}
     }
+	
 }
