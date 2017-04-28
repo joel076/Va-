@@ -73,11 +73,14 @@ namespace ConsoleApplication12
             Person p10 = new Person("Robert", "Noyce", "1927-1990", "He invented the microchip with Jack Kilby");
             Person p11 = new Person("Gordon", "Moore", "1929-", "Started the company Intel");// the almighty god
 
-            Inventions i0 = new Inventions("Intel 4004", "1971", "Intel 4004 is the first one chip microprocessor. It ran at 740kHz");
+            Inventions i0 = new Inventions("Intel 4004", "1971", "is the first commercial one chip microprocessor. It ran at 740kHz");
+            Inventions i1 = new Inventions("The bombe machine", "1942", "Alan Turings computer that he used to crack the enigma code.");
+            Inventions i2 = new Inventions("Eniac", "1946", "The Eniac was the first fully elecrtical computer");
+            Inventions i3 = new Inventions("Macintosh", "1984", ", The first famous computer that had a gui. There was a computer that had a gui the apple Lisa that was released 1983 but it is forgotten and it was very bad.");
 
             AddToList(ref list, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11);
 
-            AddToList2(ref list2, i0);
+            AddToList2(ref list2, i0, i1, i2, i3);
 
             for (;;)
             {
