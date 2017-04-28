@@ -80,7 +80,7 @@ namespace ConsoleApplication12
 
             AddToList(ref list, p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11);
 
-            AddToList2(ref list2, i0, i1, i2, i3);
+            AddToList(ref list2, i0, i1, i2, i3);
 
             for (;;)
             {
@@ -128,7 +128,7 @@ namespace ConsoleApplication12
                 lists.Add(listp[i]);
             }
         }
-        public static void AddToList2(ref List<Inventions> lists, params Inventions[] listq)
+        public static void AddToList(ref List<Inventions> lists, params Inventions[] listq)
         {
             for (int i = 0; i < listq.Length; i++)
             {
