@@ -12,7 +12,10 @@ namespace MyBot
 
 		public async Task MainAsync()
 		{
-			var client = new DiscordSocketClient();
+			
+			var client = new DiscordSocketClient(new DiscordSocketConfig { 
+				WebSocketProvider = Discord.Net.Providers.WS4Net.WS4NetProvider.Instance
+			});
 
 			client.Log += Log;
 			client.MessageReceived += MessageReceived;
@@ -32,6 +35,7 @@ namespace MyBot
 				if (message.Channel.Id == 274987790914027520)
 				{
 					//code here
+
 				}
 			}
 		}
