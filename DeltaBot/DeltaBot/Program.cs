@@ -35,7 +35,13 @@ namespace MyBot
 				if (message.Channel.Id == 274987790914027520)
 				{
 					//code here
-
+					if (message.Content.Equals("!time"))
+					{
+						var time = new DateTime();
+						time = DateTime.Now;
+						time.ToLocalTime();
+						await message.Channel.SendMessageAsync(time.Year + "-" + time.Month + "-" + time.Day + " | " + time.Hour + ":" + time.Minute);
+					}
 				}
 			}
 		}
