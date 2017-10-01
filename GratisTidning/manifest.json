@@ -1,0 +1,17 @@
+{
+
+	"name": "Remover",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Removes stuff",
+	"browser_action": {"default_popup": "popup.html"},
+	"permissions":["tabs", "activeTab"],
+	"content_scripts": [
+  {
+    "matches": ["http://www.dn.se/*"],
+    "js": ["jquery-2.2.0.min.js", "LeScript.js"]
+  }
+]
+	
+
+}
